@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CiscoMeraki.TestRunner" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-08-10T21:25:15" hostname="Bassams-MacBook-Pro.local" time="9.049">
+  <properties/>
+  <testcase name="myTestCaseIMDB" classname="CiscoMeraki.TestRunner" time="9.049"/>
+  <system-out><![CDATA[io.restassured.internal.RestAssuredResponseImpl@660cb2e1
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

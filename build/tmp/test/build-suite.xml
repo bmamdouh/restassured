@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name='mySuiteName'>
+  <test name='Incorta APIs'>
+    <classes>
+      <class name='CiscoMeraki.TestRunner' />
+    </classes>
+  </test>
+</suite>
